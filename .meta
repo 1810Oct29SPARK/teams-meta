@@ -1,6 +1,10 @@
 {
   "projects": {
-    "moons-team": "https://github.com/1810Oct29SPARK/moons-team.git",
-    "snake-team": "https://github.com/1810Oct29SPARK/snake-team.git"
+    "moons-team": "https://github.com/1810Oct29SPARK/moons-team",
+    "snake-team": "https://github.com/1810Oct29SPARK/snake-team",
+    "boots-team": "https://github.com/1810Oct29SPARK/boots-team",
+    "sealife-team": "https://github.com/1810Oct29SPARK/sea-life-team",
+    "holidays-team": "https://github.com/1810Oct29SPARK/holidays-team",
+    "cryptids-team": "https://github.com/1810Oct29SPARK/cryptid-team"
   }
 }
